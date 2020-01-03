@@ -1,3 +1,6 @@
+In order to run this program the Driver class is CreateGallerySimulation.java
+
+
 Final Project for Software Developement class
 General Description:
 When visiting the Senate Washington DC, you may want to go to the visitor’s gallery. There are 90 seats in the gallery. Spectators enter in groups of 35, but only when a block of 35 seats become available. If there are less than 35 waiting you can bring them in, as long as there are at least 35 spots in the gallery. Each person may stay as long as they like (as we describe below). VIPs get to go the front of the line.
